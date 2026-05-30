@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersender",
+        "uuid": 265914,
+        "checksum": "on5jl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
